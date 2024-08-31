@@ -1,40 +1,39 @@
-MobileFilter_general_url    https://github.com/AdguardTeam/AdguardFilters/blob/master/MobileFilter/sections/general_url.txt
-MobileFilter_adservers      https://github.com/AdguardTeam/AdguardFilters/blob/master/MobileFilter/sections/adservers.txt
-MobileFilter_replace        https://github.com/AdguardTeam/AdguardFilters/blob/master/MobileFilter/sections/replace.txt
-MobileFilter_specific_app   https://github.com/AdguardTeam/AdguardFilters/blob/master/MobileFilter/sections/specific_app.txt
-MobileFilter_specific_web   https://github.com/AdguardTeam/AdguardFilters/blob/master/MobileFilter/sections/specific_web.txt
+MobileFilter_general_url    https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/general_url.txt
+MobileFilter_adservers      https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt
+MobileFilter_replace        https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/replace.txt
+MobileFilter_specific_app   https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/specific_app.txt
+MobileFilter_specific_web   https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/specific_web.txt
 
-SpywareFilter_tracking_servers_firstparty   https://github.com/AdguardTeam/AdguardFilters/blob/master/SpywareFilter/sections/tracking_servers_firstparty.txt
-SpywareFilter_tracking_servers              https://github.com/AdguardTeam/AdguardFilters/blob/master/SpywareFilter/sections/tracking_servers.txt
-SpywareFilter_specific                      https://github.com/AdguardTeam/AdguardFilters/blob/master/SpywareFilter/sections/specific.txt
-SpywareFilter_mobile                        https://github.com/AdguardTeam/AdguardFilters/blob/master/SpywareFilter/sections/mobile.txt
-SpywareFilter_general_url                   https://github.com/AdguardTeam/AdguardFilters/blob/master/SpywareFilter/sections/general_url.txt
-SpywareFilter_general_extensions            https://github.com/AdguardTeam/AdguardFilters/blob/master/SpywareFilter/sections/general_extensions.txt
-SpywareFilter_general_elemhide              https://github.com/AdguardTeam/AdguardFilters/blob/master/SpywareFilter/sections/general_elemhide.txt
-SpywareFilter_cookies_specific              https://github.com/AdguardTeam/AdguardFilters/blob/master/SpywareFilter/sections/cookies_specific.txt
+SpywareFilter_tracking_servers_firstparty   https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/tracking_servers_firstparty.txt
+SpywareFilter_tracking_servers              https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/tracking_servers.txt
+SpywareFilter_specific                      https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/specific.txt
+SpywareFilter_mobile                        https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/mobile.txt
+SpywareFilter_general_url                   https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/general_url.txt
+SpywareFilter_general_extensions            https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/general_extensions.txt
+SpywareFilter_general_elemhide              https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/general_elemhide.txt
+SpywareFilter_cookies_specific              https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/cookies_specific.txt
 
-TrackParamFilter_specific       https://github.com/AdguardTeam/AdguardFilters/blob/master/TrackParamFilter/sections/specific.txt
-TrackParamFilter_general_url    https://github.com/AdguardTeam/AdguardFilters/blob/master/TrackParamFilter/sections/general_url.txt
+TrackParamFilter_specific       https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/TrackParamFilter/sections/specific.txt
+TrackParamFilter_general_url    https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/TrackParamFilter/sections/general_url.txt
 
-AnnoyancesFilter_Widgets_widgets                https://github.com/AdguardTeam/AdguardFilters/blob/master/AnnoyancesFilter/Widgets/sections/widgets.txt
-AnnoyancesFilter_MobileApp_mobile-app_general   https://github.com/AdguardTeam/AdguardFilters/blob/master/AnnoyancesFilter/MobileApp/sections/mobile-app_general.txt
-AnnoyancesFilter_MobileApp_mobile-app_specific  https://github.com/AdguardTeam/AdguardFilters/blob/master/AnnoyancesFilter/MobileApp/sections/mobile-app_specific.txt
-AnnoyancesFilter_Cookies_cookies_general        https://github.com/AdguardTeam/AdguardFilters/blob/master/AnnoyancesFilter/Cookies/sections/cookies_general.txt
-AnnoyancesFilter_Cookies_cookies_specific	    https://github.com/AdguardTeam/AdguardFilters/blob/master/AnnoyancesFilter/Cookies/sections/cookies_specific.txt
+AnnoyancesFilter_Widgets_widgets                https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/AnnoyancesFilter/Widgets/sections/widgets.txt
+AnnoyancesFilter_MobileApp_mobile_app_general   https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/AnnoyancesFilter/MobileApp/sections/mobile-app_general.txt
+AnnoyancesFilter_MobileApp_mobile_app_specific  https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/AnnoyancesFilter/MobileApp/sections/mobile-app_specific.txt
+AnnoyancesFilter_Cookies_cookies_general        https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/AnnoyancesFilter/Cookies/sections/cookies_general.txt
+AnnoyancesFilter_Cookies_cookies_specific	    https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/AnnoyancesFilter/Cookies/sections/cookies_specific.txt
 
-BaseFilter_adservers	            https://github.com/AdguardTeam/AdguardFilters/blob/master/BaseFilter/sections/adservers.txt
-BaseFilter_adservers_firstparty	    https://github.com/AdguardTeam/AdguardFilters/blob/master/BaseFilter/sections/adservers_firstparty.txt
-BaseFilter_cryptominers	            https://github.com/AdguardTeam/AdguardFilters/blob/master/BaseFilter/sections/cryptominers.txt
-BaseFilter_foreign	                https://github.com/AdguardTeam/AdguardFilters/blob/master/BaseFilter/sections/foreign.txt
-BaseFilter_general_extensions	    https://github.com/AdguardTeam/AdguardFilters/blob/master/BaseFilter/sections/general_extensions.txt
-BaseFilter_general_elemhide	        https://github.com/AdguardTeam/AdguardFilters/blob/master/BaseFilter/sections/general_elemhide.txt
-BaseFilter_general_url	            https://github.com/AdguardTeam/AdguardFilters/blob/master/BaseFilter/sections/general_url.txt
-BaseFilter_replace	                https://github.com/AdguardTeam/AdguardFilters/blob/master/BaseFilter/sections/replace.txt
-BaseFilter_specific	                https://github.com/AdguardTeam/AdguardFilters/blob/master/BaseFilter/sections/specific.txt
+BaseFilter_adservers	            https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/adservers.txt
+BaseFilter_adservers_firstparty	    https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/adservers_firstparty.txt
+BaseFilter_cryptominers	            https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/cryptominers.txt
+BaseFilter_foreign	                https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/foreign.txt
+BaseFilter_general_extensions	    https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/general_extensions.txt
+BaseFilter_general_elemhide	        https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/general_elemhide.txt
+BaseFilter_general_url	            https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/general_url.txt
+BaseFilter_replace	                https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/replace.txt
+BaseFilter_specific	                https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/specific.txt
 
 
-RussianFilter_adservers_firstparty	https://github.com/AdguardTeam/AdguardFilters/blob/master/CyrillicFilters/RussianFilter/sections/adservers_firstparty.txt
-RussianFilter_general_extensions	https://github.com/AdguardTeam/AdguardFilters/blob/master/CyrillicFilters/RussianFilter/sections/general_extensions.txt
-RussianFilter_replace	            https://github.com/AdguardTeam/AdguardFilters/blob/master/CyrillicFilters/RussianFilter/sections/replace.txt
-RussianFilter_replace	            https://github.com/AdguardTeam/AdguardFilters/blob/master/CyrillicFilters/RussianFilter/sections/replace.txt
-RussianFilter_specific	            https://github.com/AdguardTeam/AdguardFilters/blob/master/CyrillicFilters/RussianFilter/sections/specific.txt
+RussianFilter_adservers_firstparty	https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/CyrillicFilters/RussianFilter/sections/adservers_firstparty.txt
+RussianFilter_general_extensions	https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/CyrillicFilters/RussianFilter/sections/general_extensions.txt
+RussianFilter_replace	            https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/CyrillicFilters/RussianFilter/sections/replace.txt
+RussianFilter_specific	            https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/CyrillicFilters/RussianFilter/sections/specific.txt
